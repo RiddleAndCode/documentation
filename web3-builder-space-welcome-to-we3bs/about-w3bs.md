@@ -38,8 +38,8 @@ In an age where data is the lifeblood of modern applications, ensuring its authe
 
 Developers, as we tread the path of digital evolution, W3BS stands as a beacon of trust, a compass guiding us to genuine data sources. It's not just about data; it's about data you can vouch for. Join us in this journey and redefine the horizons of machine-generated data.&#x20;
 
-**Welcome to the future!** :woman\_astronaut::man\_astronaut:\
+## **Welcome to the future!** :woman\_astronaut::man\_astronaut:&#x20;
 
-
+## Join us on [Discord](https://discord.gg/Cza9zX8RZr) to start your journey
 
 <figure><img src="../.gitbook/assets/r&#x26;c_network_2.jpg" alt=""><figcaption></figcaption></figure>
