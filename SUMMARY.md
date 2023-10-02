@@ -1,7 +1,7 @@
 # Table of contents
 
-* [👋 Introduction](README.md)
-  * [About W3BS](introduction/about-w3bs.md)
+* [👋 Web3 Builder Space - Welcome to we3bs](README.md)
+  * [About W3BS](web3-builder-space-welcome-to-we3bs/about-w3bs.md)
 * [🚀 Getting Started](getting-started/README.md)
   * [Web2 Authentication](getting-started/web2-authentication.md)
 * [👨🚀 It's all about Machine Data](its-all-about-machine-data/README.md)
@@ -28,3 +28,7 @@
 
 * [Architecture](architecture.md)
 * [Use Cases](use-cases.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
