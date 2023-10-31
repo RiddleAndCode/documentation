@@ -29,6 +29,6 @@
 * [Architecture](architecture.md)
 * [Use Cases](use-cases.md)
 
-## Group 1
+## MYPWR Community
 
-* [Page 1](group-1/page-1.md)
+* [Quick Start - How to get started](mypwr-community/quick-start-how-to-get-started.md)
