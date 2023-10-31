@@ -14,21 +14,6 @@
   * [Website W3BS](https://www.riddleandcode.com/builder-spacer/w3bs)
 * [About the RDDL Network](about-the-rddl-network.md)
 
-## ☀ MYPWR
-
-* [Introduction](mypwr/introduction.md)
-* [Capabilities](mypwr/capabilities/README.md)
-  * [Authentication](mypwr/capabilities/authentication.md)
-  * [Device Management](mypwr/capabilities/device-management.md)
-  * [Energy Flows](mypwr/capabilities/energy-flows.md)
-  * [Tokenization](mypwr/capabilities/tokenization.md)
-  * [Key Generation and Ceremony](mypwr/capabilities/key-generation-and-ceremony.md)
-
-***
-
-* [Architecture](architecture.md)
-* [Use Cases](use-cases.md)
-
-## MYPWR Community
+## ☀ MYPWR Community
 
 * [Quick Start - How to get started](mypwr-community/quick-start-how-to-get-started.md)
