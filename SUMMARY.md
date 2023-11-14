@@ -23,3 +23,4 @@
 ***
 
 * [FAQ](faq.md)
+* [How to fund a Trust Anchor or Machine](how-to-fund-a-trust-anchor-or-machine.md)
