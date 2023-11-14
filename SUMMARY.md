@@ -17,3 +17,7 @@
 ## ☀ MYPWR Community
 
 * [Quick Start - How to get started](mypwr-community/quick-start-how-to-get-started.md)
+
+***
+
+* [FAQ](faq.md)
