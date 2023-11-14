@@ -4,6 +4,7 @@
   * [About W3BS](web3-builder-space-welcome-to-w3bs/about-w3bs.md)
 * [🚀 Getting Started](getting-started/README.md)
   * [Web2 Authentication](getting-started/web2-authentication.md)
+  * [Inspirations](getting-started/inspirations.md)
 * [👨🚀 It's all about Machine Data](its-all-about-machine-data/README.md)
   * [Trust Anchor & HW-03](its-all-about-machine-data/trust-anchor-and-hw-03.md)
   * [Device Attestation](its-all-about-machine-data/device-attestation.md)
@@ -26,4 +27,3 @@
 * [Glossary](glossary.md)
 * [FAQ](faq.md)
 * [Change Log - Release Notes](change-log-release-notes.md)
-* [Inspirations](inspirations.md)
