@@ -23,5 +23,6 @@
 
 ***
 
+* [Glossary](glossary.md)
 * [FAQ](faq.md)
 * [Change Log - Release Notes](change-log-release-notes.md)
