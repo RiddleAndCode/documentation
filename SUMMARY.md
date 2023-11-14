@@ -11,6 +11,7 @@
   * [Provision Trust Anchor via Mnenomic Phrase](its-all-about-machine-data/provision-trust-anchor-via-mnenomic-phrase.md)
   * [How to notarise Machine Data](its-all-about-machine-data/how-to-notarise-machine-data.md)
   * [How to verify Machine Data](its-all-about-machine-data/how-to-verify-machine-data.md)
+  * [How to fund a Trust Anchor or Machine](its-all-about-machine-data/how-to-fund-a-trust-anchor-or-machine.md)
 * [🧑💻 Resources](resources/README.md)
   * [Discord W3BS Community ](https://discord.com/invite/Cza9zX8RZr)
   * [Website W3BS](https://www.riddleandcode.com/builder-spacer/w3bs)
@@ -23,4 +24,4 @@
 ***
 
 * [FAQ](faq.md)
-* [How to fund a Trust Anchor or Machine](how-to-fund-a-trust-anchor-or-machine.md)
+* [Change Log - Release Notes](change-log-release-notes.md)
