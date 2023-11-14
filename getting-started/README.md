@@ -25,7 +25,7 @@ Here's a quick guide to help you get started
 **Starting Your Building Journey**
 
 * Read through our comprehensive guides and tutorials to gain valuable insights on what you can do with w3bs&#x20;
-  * e.g. [how-to-connect-a-trust-anchor.md](../technology-deep-dive/how-to-connect-a-trust-anchor.md "mention")
+  * e.g. [how-to-connect-a-trust-anchor.md](../its-all-about-machine-data/how-to-connect-a-trust-anchor.md "mention")
 * Don't hesitate to ask questions or seek advice in our dedicated channels on Discord.
 * Get hands-on by applying what you've learned and start building your projects.
 * Share your progress and achievements with the community – we'd love to see your work!
