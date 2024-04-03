@@ -4,7 +4,7 @@
   * [About W3BS](web3-builder-space-welcome-to-w3bs/about-w3bs.md)
 * [🚀 Getting Started](getting-started/README.md)
   * [Web2 Authentication](getting-started/web2-authentication.md)
-* [👨🚀 It's all about Machine Data](its-all-about-machine-data/README.md)
+* [👨‍🚀 It's all about Machine Data](its-all-about-machine-data/README.md)
   * [Trust Anchor & HW-03](its-all-about-machine-data/trust-anchor-and-hw-03.md)
   * [Device Attestation](its-all-about-machine-data/device-attestation.md)
   * [⚓ How to connect a Trust Anchor](its-all-about-machine-data/how-to-connect-a-trust-anchor.md)
@@ -12,12 +12,12 @@
   * [How to notarise Machine Data](its-all-about-machine-data/how-to-notarise-machine-data.md)
   * [How to verify Machine Data](its-all-about-machine-data/how-to-verify-machine-data.md)
   * [How to fund a Trust Anchor or Machine](its-all-about-machine-data/how-to-fund-a-trust-anchor-or-machine.md)
-* [🧑💻 Resources](resources/README.md)
+* [🧑‍💻 Resources](resources/README.md)
   * [Discord W3BS Community ](https://discord.com/invite/Cza9zX8RZr)
   * [Website W3BS](https://www.riddleandcode.com/builder-spacer/w3bs)
 * [About the RDDL Network](about-the-rddl-network.md)
 
-## ☀ MYPWR Community
+## ☀️ MYPWR Community
 
 * [Quick Start - How to get started](mypwr-community/quick-start-how-to-get-started.md)
 
